@@ -1,0 +1,15 @@
+h1 {
+    color:red;
+    background-color: yellow;
+}
+#selected {
+    color: green;
+    background-color: red;
+}
+
+p::first-letter {
+    font-size : 2rem;
+}
+p::hover {
+    border:3px solid black;
+}
